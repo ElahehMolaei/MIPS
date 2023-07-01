@@ -1,0 +1,85 @@
+C:/Users/imen/Desktop/MIPS/MA.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/MA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MA
+
+Top level modules:
+	MA
+
+} {} {}} C:/Users/imen/Desktop/MIPS/IF.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/IF.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF
+
+Top level modules:
+	IF
+
+} {} {}} C:/Users/imen/Desktop/MIPS/CPU.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/CPU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} C:/Users/imen/Desktop/MIPS/INS_MEM.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/INS_MEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module INS_MEM
+
+Top level modules:
+	INS_MEM
+
+} {} {}} C:/Users/imen/Desktop/MIPS/CPU_tb.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/CPU_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU_tb
+
+Top level modules:
+	CPU_tb
+
+} {} {}} C:/Users/imen/Desktop/MIPS/WB.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/WB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WB
+
+Top level modules:
+	WB
+
+} {} {}} C:/Users/imen/Desktop/MIPS/ALU.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/imen/Desktop/MIPS/D_MEM.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/D_MEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_MEM
+
+Top level modules:
+	D_MEM
+
+} {} {}} C:/Users/imen/Desktop/MIPS/ALU_controller.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/ALU_controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU_controller
+
+Top level modules:
+	ALU_controller
+
+} {} {}} C:/Users/imen/Desktop/MIPS/EX.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/EX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EX
+
+Top level modules:
+	EX
+
+} {} {}} C:/Users/imen/Desktop/MIPS/ID.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/ID.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} C:/Users/imen/Desktop/MIPS/reg_file.v {1 {vlog -work work C:/Users/imen/Desktop/MIPS/reg_file.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}}

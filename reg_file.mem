@@ -1,0 +1,11 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/CPU_tb/dut/id/rf/reg_file
+// format=hex addressradix=h dataradix=h version=1.0 wordsperline=1 noaddress
+0000
+0000
+000a
+0038
+0038
+0038
+7fff
+0000

@@ -1,0 +1,244 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0
+vALU
+Z1 !s100 ]dG<z1[g7iiGHYimd:f_@2
+Z2 I`OUQFo[bSmM7HH7GFjdNf1
+Z3 VOje7z[CehQHWA_enNm=Z^1
+Z4 dC:\Users\imen\Desktop\MIPS
+Z5 w1687881016
+Z6 8C:/Users/imen/Desktop/MIPS/ALU.v
+Z7 FC:/Users/imen/Desktop/MIPS/ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1688147010.086000
+Z13 !s107 C:/Users/imen/Desktop/MIPS/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_controller
+Z14 !s100 FSiH=aGV0eO3`cPDJHhaQ0
+Z15 I=fD8j4?JA<`5nz94H[WMn0
+Z16 VP2[<lUV3111MOG5mz3;6?0
+R4
+Z17 w1687819791
+Z18 8C:/Users/imen/Desktop/MIPS/ALU_controller.v
+Z19 FC:/Users/imen/Desktop/MIPS/ALU_controller.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/ALU_controller.v|
+R10
+Z21 n@a@l@u_controller
+Z22 !s108 1688147010.151000
+Z23 !s107 C:/Users/imen/Desktop/MIPS/ALU_controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU
+Z24 !s100 UJzZ<J^ziE^;UHK>:>?e62
+Z25 I:=LiXMSZZW<OimVZ]iShc3
+Z26 V4>doX_lSHJbC_fN9f@RFA2
+R4
+Z27 w1687866115
+Z28 8C:/Users/imen/Desktop/MIPS/CPU.v
+Z29 FC:/Users/imen/Desktop/MIPS/CPU.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/CPU.v|
+R10
+Z31 n@c@p@u
+Z32 !s108 1688147010.217000
+Z33 !s107 C:/Users/imen/Desktop/MIPS/CPU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU_tb
+Z34 !s100 8VBFReQ:cf9=Fe><Hog6@2
+Z35 I]?iW@lc1UO_g?c@ZDXMK10
+Z36 VJ]cozc2R4cz?MTJoP]UO70
+R4
+Z37 w1687880845
+Z38 8C:/Users/imen/Desktop/MIPS/CPU_tb.v
+Z39 FC:/Users/imen/Desktop/MIPS/CPU_tb.v
+L0 1
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/CPU_tb.v|
+R10
+Z41 n@c@p@u_tb
+Z42 !s108 1688147010.282000
+Z43 !s107 C:/Users/imen/Desktop/MIPS/CPU_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vD_MEM
+Z44 !s100 RYekGNM7>:7NSj]AK8Xc53
+Z45 I=Zc@5ML4FhIYKoZLJU8Dz2
+Z46 Vgd[bC_DSXeEVYbga11EcF3
+R4
+Z47 w1687866094
+Z48 8C:/Users/imen/Desktop/MIPS/D_MEM.v
+Z49 FC:/Users/imen/Desktop/MIPS/D_MEM.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/D_MEM.v|
+R10
+Z51 n@d_@m@e@m
+Z52 !s108 1688147010.356000
+Z53 !s107 C:/Users/imen/Desktop/MIPS/D_MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX
+Z54 !s100 UYk];Nc=KVEO6dMmZ0N>=2
+Z55 IKRM4S3TJl;5]dQ12OGHZ;3
+Z56 VU60^3m[W[iPGeTz8A3km>0
+R4
+Z57 w1687819815
+Z58 8C:/Users/imen/Desktop/MIPS/EX.v
+Z59 FC:/Users/imen/Desktop/MIPS/EX.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/EX.v|
+R10
+n@e@x
+Z61 !s108 1688147010.445000
+Z62 !s107 C:/Users/imen/Desktop/MIPS/EX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID
+Z63 !s100 73O5aNHZDWzm^00>>7:8g1
+Z64 Ih4D?137FbOzDbAAT_j>T=0
+Z65 VA^9:L8WZ66PEzU@3fbM;i3
+R4
+Z66 w1687818199
+Z67 8C:/Users/imen/Desktop/MIPS/ID.v
+Z68 FC:/Users/imen/Desktop/MIPS/ID.v
+L0 1
+R8
+r1
+31
+Z69 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/ID.v|
+R10
+n@i@d
+Z70 !s108 1688147010.528000
+Z71 !s107 C:/Users/imen/Desktop/MIPS/ID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF
+Z72 !s100 Fjhm2]C6cUU=f`S40aQoZ3
+Z73 I9Z?Yln]@Mz>inM_fSG1j`2
+Z74 VL:m>P^DCALCLdMCGm_ZAH2
+R4
+Z75 w1687813684
+Z76 8C:/Users/imen/Desktop/MIPS/IF.v
+Z77 FC:/Users/imen/Desktop/MIPS/IF.v
+L0 1
+R8
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/IF.v|
+R10
+n@i@f
+Z79 !s108 1688147010.602000
+Z80 !s107 C:/Users/imen/Desktop/MIPS/IF.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vINS_MEM
+Z81 !s100 MP5KPm=lz4<2>=BT`:kbB0
+Z82 I537PL17P5XA9JU030k8jF1
+Z83 VN7b<3ZA@C0JBh8SVA4Od71
+R4
+Z84 w1687791886
+Z85 8C:/Users/imen/Desktop/MIPS/INS_MEM.v
+Z86 FC:/Users/imen/Desktop/MIPS/INS_MEM.v
+L0 1
+R8
+r1
+31
+Z87 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/INS_MEM.v|
+R10
+Z88 n@i@n@s_@m@e@m
+Z89 !s108 1688147010.674000
+Z90 !s107 C:/Users/imen/Desktop/MIPS/INS_MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMA
+Z91 !s100 G>:36;h`V^UJa9VzVZ`aT0
+Z92 I3PVj2VC`2:;_4:mbz7Cn71
+Z93 VfgD7kKmbaDBOeP]QGCa>@2
+R4
+Z94 w1687879041
+Z95 8C:/Users/imen/Desktop/MIPS/MA.v
+Z96 FC:/Users/imen/Desktop/MIPS/MA.v
+L0 1
+R8
+r1
+31
+Z97 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/MA.v|
+R10
+n@m@a
+Z98 !s108 1688147010.749000
+Z99 !s107 C:/Users/imen/Desktop/MIPS/MA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreg_file
+Z100 !s100 K2CN^PFTKZ9:OT1X>MZPf2
+Z101 I7g98GdaJBjmZ6^c3c]J1^0
+Z102 VgBkmWm4lkZn`FXbGAAcg81
+R4
+Z103 w1687819191
+Z104 8C:/Users/imen/Desktop/MIPS/reg_file.v
+Z105 FC:/Users/imen/Desktop/MIPS/reg_file.v
+L0 1
+R8
+r1
+31
+Z106 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/reg_file.v|
+R10
+!i10b 1
+!s85 0
+Z107 !s108 1688147010.807000
+Z108 !s107 C:/Users/imen/Desktop/MIPS/reg_file.v|
+!s101 -O0
+vWB
+!i10b 1
+Z109 !s100 LVRU0OdL5@Sg2?FJ2]fGX3
+Z110 II_<Y;R=4iIF<GFnRl]GBG0
+Z111 V;lkPm68VA7`lbWgNPlJ;=3
+R4
+Z112 w1687806110
+Z113 8C:/Users/imen/Desktop/MIPS/WB.v
+Z114 FC:/Users/imen/Desktop/MIPS/WB.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1688147010.874000
+!s107 C:/Users/imen/Desktop/MIPS/WB.v|
+Z115 !s90 -reportprogress|300|-work|work|C:/Users/imen/Desktop/MIPS/WB.v|
+!s101 -O0
+R10
+n@w@b
